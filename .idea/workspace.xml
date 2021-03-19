@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cc778ac1-4f6b-4b9e-b759-9c25742a7614" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Flask Main" />
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="e9bdd858-a452-4b9e-8abc-6a17d00fd013" />
+  <component name="ProjectId" id="1pwJ6eOG7cVxhSquXj9hOv4PJZS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Flask server.Flask (app.py)">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Board/templates/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Board" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Board" type="Python.FlaskServer">
+      <module name="Board" />
+      <option name="target" value="$PROJECT_DIR$/app.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Flask (app.py)" type="Python.FlaskServer" temporary="true" nameIsGenerated="true">
+      <module name="Board" />
+      <option name="target" value="$PROJECT_DIR$/app.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Flask server.Flask (app.py)" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc778ac1-4f6b-4b9e-b759-9c25742a7614" name="Default Changelist" comment="" />
+      <created>1616088044943</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616088044943</updated>
+      <workItem from="1616088047721" duration="4363000" />
+      <workItem from="1616092462429" duration="56000" />
+      <workItem from="1616092701584" duration="7358000" />
+      <workItem from="1616100490881" duration="58000" />
+      <workItem from="1616100627785" duration="609000" />
+      <workItem from="1616101264711" duration="2403000" />
+      <workItem from="1616103788396" duration="385000" />
+      <workItem from="1616129764197" duration="1931000" />
+      <workItem from="1616132068824" duration="53000" />
+      <workItem from="1616134195280" duration="1173000" />
+      <workItem from="1616135680657" duration="1834000" />
+      <workItem from="1616140138812" duration="675000" />
+      <workItem from="1616181951010" duration="7091000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1696" height="308" key="GridCell.Tab.0.bottom" timestamp="1616189114023">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state width="1696" height="308" key="GridCell.Tab.0.bottom/0.0.1739.939@0.0.1739.939" timestamp="1616189114023" />
+    <state width="1696" height="308" key="GridCell.Tab.0.center" timestamp="1616189114023">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state width="1696" height="308" key="GridCell.Tab.0.center/0.0.1739.939@0.0.1739.939" timestamp="1616189114023" />
+    <state width="1696" height="308" key="GridCell.Tab.0.left" timestamp="1616189114023">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state width="1696" height="308" key="GridCell.Tab.0.left/0.0.1739.939@0.0.1739.939" timestamp="1616189114023" />
+    <state width="1696" height="308" key="GridCell.Tab.0.right" timestamp="1616189114023">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state width="1696" height="308" key="GridCell.Tab.0.right/0.0.1739.939@0.0.1739.939" timestamp="1616189114023" />
+    <state width="1696" height="308" key="GridCell.Tab.1.bottom" timestamp="1616189114024">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state width="1696" height="308" key="GridCell.Tab.1.bottom/0.0.1739.939@0.0.1739.939" timestamp="1616189114024" />
+    <state width="1696" height="308" key="GridCell.Tab.1.center" timestamp="1616189114024">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state width="1696" height="308" key="GridCell.Tab.1.center/0.0.1739.939@0.0.1739.939" timestamp="1616189114024" />
+    <state width="1696" height="308" key="GridCell.Tab.1.left" timestamp="1616189114023">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state width="1696" height="308" key="GridCell.Tab.1.left/0.0.1739.939@0.0.1739.939" timestamp="1616189114023" />
+    <state width="1696" height="308" key="GridCell.Tab.1.right" timestamp="1616189114024">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state width="1696" height="308" key="GridCell.Tab.1.right/0.0.1739.939@0.0.1739.939" timestamp="1616189114024" />
+    <state x="566" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1616182047316">
+      <screen x="0" y="0" width="1739" height="939" />
+    </state>
+    <state x="566" y="294" key="com.intellij.ide.util.TipDialog/0.0.1739.939@0.0.1739.939" timestamp="1616182047316" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Board$Flask__app_py_.coverage" NAME="Flask (app.py) Coverage Results" MODIFIED="1616188945593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Board$Board.coverage" NAME="Board Coverage Results" MODIFIED="1616088053611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Board$test.coverage" NAME="test Coverage Results" MODIFIED="1616135367411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
